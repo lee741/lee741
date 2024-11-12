@@ -1,5 +1,9 @@
 ## Hi there 👋
+My name is Lee, I am a JAVA Developer.
 
+📫 How to reach me: drawhandler@gmail.com
+
+⚡ Fun fact: I enjoy reading, playing chess and socializing. 
 <!--
 **lee741/lee741** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
